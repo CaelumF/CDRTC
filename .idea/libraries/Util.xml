@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Caelum's Utils">
+  <library name="Util">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/Util.jar!/" />
     </CLASSES>
